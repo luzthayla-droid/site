@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: blue;
+}
+Clique em:
+“Commit new file”
+Criar o arquivo JavaScript
+Repita o processo.
+Nome:
+JavaScript
+script.js
+Conteúdo:
+JavaScript
+function mensagem() {
+    alert("Funcionando!");
+}
